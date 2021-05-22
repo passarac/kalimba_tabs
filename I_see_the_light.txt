@@ -2,10 +2,12 @@
 
 I See the Light Tangled
 
-Intro: 1 5 1° 5 3° 5 1° 5 
+Intro: 
+1 5 1° 5 3° 5 1° 5 
 1 1° 3° 1 5° 3°
 
-Verse: 5° 4° 3° 2° 3° 2° 1° 1° 5 
+Verse: 
+5° 4° 3° 2° 3° 2° 1° 1° 5 
 All those days, watching from the windows
 5° 4° 3° 2° 3° 2° 1° 1°
 All those years, outside looking in
