@@ -2,26 +2,41 @@
 
 I See the Light Tangled
 
-Intro: 1 5 1° 5 3° 5 1° 5 1 1° 3° 1 5° 3°
+Intro: 1 5 1° 5 3° 5 1° 5 
+1 1° 3° 1 5° 3°
 
-Verse: 5° 4° 3° 2° 3° 2° 1° 1° 5 All those days, watching from the windows
+Verse: 5° 4° 3° 2° 3° 2° 1° 1° 5 
+All those days, watching from the windows
 5° 4° 3° 2° 3° 2° 1° 1°
 All those years, outside looking in
-6° 5° 4° 5° 1°° 5° 1° 3° 2° 5° 4° 3° 1° 2° All that time never even knowing just how blind I’ve been
+6° 5° 4° 5° 1°° 5° 1° 3° 2° 5° 4° 3° 1° 2° 
+All that time never even knowing just how blind I’ve been
 
-5° 4° 3° 2° 3° 2° 1° 1° 5 Now I’m here, blinking in the starlight
-5° 4° 3° 2° 3° 2° 1° 1°  Now I’m here suddenly I see
-6° 5° 4° 1° 7° 6° 5° Standing here, it’s all so clear
-1° 1°° 7° 6° 3° 5° I’m where I’m meant to be
+5° 4° 3° 2° 3° 2° 1° 1° 5 
+Now I’m here, blinking in the starlight
+5° 4° 3° 2° 3° 2° 1° 1°  
+Now I’m here suddenly I see
+6° 5° 4° 1° 7° 6° 5° 
+Standing here, it’s all so clear
+1° 1°° 7° 6° 3° 5° 
+I’m where I’m meant to be
 
-6° 7° 1°° 4° 4° 3° 5° And at last I see the light
-1° 2° 2° 2° 5° 4° 4° 3° And it’s like the fog has lifted
-6° 7° 1°° 4° 4° 3° 5° And at last I see the light
-1° 2° 3° 4° 3° 2° 1° And it’s like the sky is new
-6° 7° 1°° 4° 4° 5° 3° And it’s warm and real and bright
-3° 5° 7° 6° 5° 7° 7° 1°° And the world has somehow shifted
+6° 7° 1°° 4° 4° 3° 5° 
+And at last I see the light
+1° 2° 2° 2° 5° 4° 4° 3° 
+And it’s like the fog has lifted
+6° 7° 1°° 4° 4° 3° 5° 
+And at last I see the light
+1° 2° 3° 4° 3° 2° 1° 
+And it’s like the sky is new
+6° 7° 1°° 4° 4° 5° 3° 
+And it’s warm and real and bright
+3° 5° 7° 6° 5° 7° 7° 1°° 
+And the world has somehow shifted
 
-5° 4° 3° 2° 3° 2° 1° 1° 5 All at once everything looks different
-5° 4° 3° 7 1° Now that I see you
+5° 4° 3° 2° 3° 2° 1° 1° 5 
+All at once everything looks different
+5° 4° 3° 7 1° 
+Now that I see you
 
 
